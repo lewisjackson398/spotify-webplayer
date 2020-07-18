@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/spotify-webplayer/static/css/main.375837db.chunk.css",
-    "main.js": "/spotify-webplayer/static/js/main.6925cef5.chunk.js",
-    "main.js.map": "/spotify-webplayer/static/js/main.6925cef5.chunk.js.map",
+    "main.js": "/spotify-webplayer/static/js/main.2e5cee15.chunk.js",
+    "main.js.map": "/spotify-webplayer/static/js/main.2e5cee15.chunk.js.map",
     "runtime-main.js": "/spotify-webplayer/static/js/runtime-main.e2fe8855.js",
     "runtime-main.js.map": "/spotify-webplayer/static/js/runtime-main.e2fe8855.js.map",
     "static/js/2.0172ddb1.chunk.js": "/spotify-webplayer/static/js/2.0172ddb1.chunk.js",
     "static/js/2.0172ddb1.chunk.js.map": "/spotify-webplayer/static/js/2.0172ddb1.chunk.js.map",
     "index.html": "/spotify-webplayer/index.html",
-    "precache-manifest.52b96fa43c5d0c1546bfe40777778a25.js": "/spotify-webplayer/precache-manifest.52b96fa43c5d0c1546bfe40777778a25.js",
+    "precache-manifest.172b7dbb3c3dcc21a22aabbe1bdddf9f.js": "/spotify-webplayer/precache-manifest.172b7dbb3c3dcc21a22aabbe1bdddf9f.js",
     "service-worker.js": "/spotify-webplayer/service-worker.js",
     "static/css/main.375837db.chunk.css.map": "/spotify-webplayer/static/css/main.375837db.chunk.css.map",
     "static/js/2.0172ddb1.chunk.js.LICENSE.txt": "/spotify-webplayer/static/js/2.0172ddb1.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e2fe8855.js",
     "static/js/2.0172ddb1.chunk.js",
     "static/css/main.375837db.chunk.css",
-    "static/js/main.6925cef5.chunk.js"
+    "static/js/main.2e5cee15.chunk.js"
   ]
 }
